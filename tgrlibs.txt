@@ -1,0 +1,15 @@
+obd
+python-can
+pandas
+#python-telegram-bot --upgrade
+scrapy
+twisted[tls]
+chompjs
+#kivy[base] kivy_examples --pre --extra-index-url https://kivy.org/downloads/simple/
+kivy.deps.gstreamer
+kivy.deps.angle
+pygame
+kivy
+kivymd
+flet
+opencv-python

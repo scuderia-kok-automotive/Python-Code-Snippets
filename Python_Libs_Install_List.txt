@@ -1,0 +1,25 @@
+pip install obd
+pip install python-can
+pip install mariadb
+#pip install pybluez
+Run - sudo apt install libbluetooth-dev on ubuntu based systems
+pip install git+https://github.com/pybluez/pybluez.git#egg=pybluez #install ms buildtools on windows machine
+pip install esptool
+pip install mysql-connector-python
+pip install pandas
+pip install python-telegram-bot --upgrade
+pip install scrapy
+pip install twisted[tls]
+pip install chompjs
+pip install kivy[base] kivy_examples --pre --extra-index-url https://kivy.org/downloads/simple/
+python -m pip install --upgrade pip wheel setuptools
+python -m pip install docutils pygments pypiwin32 kivy.deps.sdl2 kivy.deps.glew
+python -m pip install kivy.deps.gstreamer
+python -m pip install kivy.deps.angle
+python -m pip install pygame
+python -m pip install kivy
+pip install flet - sudo apt install libmpv1  // must be installed
+pip install opencv-python
+
+
+python3 -m pip config set global.break-system-packages true
