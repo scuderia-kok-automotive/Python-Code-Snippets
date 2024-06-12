@@ -22,4 +22,4 @@ pip install flet - sudo apt install libmpv1  // must be installed
 pip install opencv-python
 
 
-python3 -m pip config set global.break-system-packages true
+python3 -m pip config set global.break-system-packages true -->  This fixes the annoying venv forcing issue
